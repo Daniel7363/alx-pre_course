@@ -3,5 +3,5 @@
    These are the contents of the repository
    -README file
    -main branch 
-**I have fix some of the bugs in the code.**
+**I have fixed some of the bugs in the code.**
 
